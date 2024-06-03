@@ -41,7 +41,7 @@ variable private_subnets_cidr {
 }
 variable instance_type {}
 variable imagename {}
-variable key_name {}
+# variable key_name {}
 
 
 

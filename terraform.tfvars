@@ -7,7 +7,7 @@ private_subnets_cidr = ["10.0.4.0/24","10.0.5.0/24","10.0.6.0/24"]
 env = "prod"
 imagename = "ami-0f58b397bc5c1f2e8"
 instance_type = "t2.micro"
-key_name = "AWS Practise -KP"
+key_name = "Jenkins"
 
 
   
